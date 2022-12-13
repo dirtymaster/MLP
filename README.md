@@ -12,6 +12,15 @@ Users can set the number of learning epochs, the number of hidden layers and hid
 
 ### Dataset
 To train and test a neural network, download the files of [The MIST Letters dataset](https://drive.google.com/drive/folders/1eDmxXv-bGOCr58TjkyaM0R2zoOkfFMYb?usp=sharing) and place them in the **resources** folder of the project.
+
+### Install
+The program is designed to be installed on macOS using the make and qmake utilities.
+```
+git clone https://github.com/abceff/MLP.git
+cd MLP/src
+make install
+```
+You can also download the executable file from Releases.
 ***
 
 ### Демонстрация
@@ -25,3 +34,12 @@ To train and test a neural network, download the files of [The MIST Letters data
 
 ### Датасет
 Чтобы обучать и тестировать нейросеть, скачать файлы [The MIST Letters dataset](https://drive.google.com/drive/folders/1eDmxXv-bGOCr58TjkyaM0R2zoOkfFMYb?usp=sharing) и поместите их в папку **resources** проекта.
+
+### Установка
+The program is designed to be installed on macOS using the make and qmake utilities.
+```
+git clone https://github.com/abceff/MLP.git
+cd MLP/src
+make install
+```
+Вы также можете загрузить исполняемый файл из Releases.
